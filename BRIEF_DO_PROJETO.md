@@ -56,3 +56,8 @@ Um espaço próprio pode organizar a descoberta da loja, explicar a visita e o a
 ## Limites do conceito
 
 Não afirmar que as imagens geradas mostram a propriedade real. Não assumir preços, portfólio, disponibilidade diária, taxa de degustação, regras de consumo, venda online, acessibilidade ou coordenadas exatas. Confirmar todos os dados e o uso de marca/fotografias com a vinícola.
+
+## Entrega de conceito
+
+- GitHub: https://github.com/oluisvi/vinicola-witmarsum-conceito
+- GitHub Pages: https://oluisvi.github.io/vinicola-witmarsum-conceito/

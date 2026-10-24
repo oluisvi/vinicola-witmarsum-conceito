@@ -6,7 +6,7 @@ A ideia é ajudar quem está planejando um passeio a entender de forma rápida o
 
 Montei três direções visuais diferentes numa mesma página para vocês compararem: uma mais editorial, outra com foco nos produtos e uma em formato de guia de visita. É só trocar pelos botões no topo:
 
-**Protótipo:** [INSERIR LINK DO GITHUB PAGES]
+**Protótipo:** https://oluisvi.github.io/vinicola-witmarsum-conceito/
 
 Sou o Luis, da ServAgency, uma agência de tecnologia que desenvolve sites e experiências digitais para negócios. Esse material é um ponto de partida: dá para ajustar identidade, conteúdo, fotos, produtos e o jeito de apresentar a visita conforme o que fizer mais sentido para vocês. Antes de uma versão final, a gente confirmaria endereço, produtos e regras diretamente com a equipe.
 

@@ -2,6 +2,9 @@
 
 Protótipo estático e mobile-first com três direções visuais alternáveis em uma página. Inclui catálogo conceitual com filtros, informações de visita, FAQ, links de contato e mapa baseado em endereço público ainda sujeito à confirmação.
 
+**GitHub Pages:** https://oluisvi.github.io/vinicola-witmarsum-conceito/
+**Repositório:** https://github.com/oluisvi/vinicola-witmarsum-conceito
+
 ## Rodar localmente
 
 Abra `index.html` no navegador ou sirva a pasta com qualquer servidor estático.
